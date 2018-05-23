@@ -107,7 +107,7 @@ Once the training is completed the result is stored the main folder as ``D_chk_2
 
 
 ###### Final Generated Images
-![Screenshot](./assets/Final_Eye_Output.png "Output")
+![Screenshot](./assets/FInal_Eye_Output.png "Output")
 
 
 #### ToDo
