@@ -1,5 +1,6 @@
 /data
+/Emoji/data
 .ipynb_checkpoints
 .floydignore
 .floydexpt
-/Emoji/data
+
