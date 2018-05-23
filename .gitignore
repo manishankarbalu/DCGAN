@@ -1,5 +1,5 @@
-#Ignore data folder
-data/
-
-#Ignore checkpoint folder
+/data
 .ipynb_checkpoints
+.floydignore
+.floydexpt
+
